@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://twitter.com/relaxscofield" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="relaxscofield" height="30" width="40" /></a>
 <a href="https://instagram.com/eraylovesyou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eraylovesyou" height="30" width="40" /></a>
-<a href="https://discord.gg/cano.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cano.94" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
